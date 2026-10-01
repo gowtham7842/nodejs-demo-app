@@ -2,7 +2,7 @@
   run: npm ci
 
 - name: Fix Jest permissions
-  run: chmod +x node_modules/.bin/jest node_modules/jest/bin/jest.js
+  run: chmod +x node_modules/.bin/jest
 
 - name: Run tests
   run: npm test
