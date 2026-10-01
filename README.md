@@ -35,3 +35,5 @@ The Docker image is published to Docker Hub.
 ## Result
 
 GitHub Actions automatically tests the application, builds the Docker image, and pushes it to Docker Hub.
+
+
